@@ -57,4 +57,10 @@ public class Calculator {
         }
         return i;
     }
+
+
+    public static void main(String[] args) {
+        Test2012 test2012 = new Test2012();
+        test2012.print();
+    }
 }
